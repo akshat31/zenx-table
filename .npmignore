@@ -1,0 +1,4 @@
+# Files and directories to be ignored by npm when publishing
+node_modules/
+.git
+.gitignore
