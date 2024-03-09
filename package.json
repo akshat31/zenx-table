@@ -1,0 +1,26 @@
+{
+  "name": "zenx-table",
+  "version": "0.0.1",
+  "description": "Basic html table in react",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshat31/zenx-table.git"
+  },
+  "keywords": [
+    "Table"
+  ],
+  "author": "Akshat Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshat31/zenx-table/issues"
+  },
+  "homepage": "https://github.com/akshat31/zenx-table#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
