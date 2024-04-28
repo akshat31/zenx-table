@@ -1,3 +1,4 @@
+import React from 'react'
 import './table.css'
 
 const FlexiTable = ({ data = [], colDef = []}) => {
