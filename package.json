@@ -1,7 +1,6 @@
 {
   "name": "zenx-table",
-  "private":"false",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "description": "Basic html table in react",
   "type": "module",
   "main": "dist/index.js",
