@@ -3,3 +3,4 @@ node_modules/
 .git
 .gitignore
 rollup.config.js
+test-app-folder

@@ -11,7 +11,7 @@ import uglify from "@lopatnov/rollup-plugin-uglify";
 
 export default [
     {
-        input: 'index.jsx', // Corrected the entry file to index.js
+        input: 'src/index.jsx', // Corrected the entry file to index.js
         output: [
             {
                 file: 'dist/index.js',
