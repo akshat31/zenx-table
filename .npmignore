@@ -2,9 +2,5 @@
 node_modules/
 .git
 .gitignore
-<<<<<<< HEAD
-rollup.config.js
-=======
 rollup.config.js
 test-app-folder
->>>>>>> 688918ba038c4ea8fec608a4bb2aca0fd4f88ddc
