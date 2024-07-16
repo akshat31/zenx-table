@@ -2,6 +2,7 @@ import React from 'react'
 import './table.css'
 
 const FlexiTable = ({ data = [], colDef = []}) => {
+    console.log('Test 7/16/2024')
     return (
         <table>
             <thead>
